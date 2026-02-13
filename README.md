@@ -1,3 +1,11 @@
+---
+title: RAG Airline Assistant (Live Demo)
+emoji: 🛫
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
 🛫 **Airline Dispute RAG Assistant**
 _Production-Style, Fully Local Retrieval-Augmented System ($0 Cost)_
 
